@@ -1,0 +1,6 @@
+Eating
+Sleeping
+Mouse
+Cat
+Playing
+Dog
